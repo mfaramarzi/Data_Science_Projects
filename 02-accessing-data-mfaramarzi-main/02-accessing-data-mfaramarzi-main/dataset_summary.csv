@@ -1,0 +1,4 @@
+,name,source,num_rows,num_columns,source_file_name
+d_1,rankings_by_country,https://www.numbeo.com/quality-of-life/rankings_by_country.jsp,82,11,rankings_by_country.jsp
+d_2,List_of_best-selling_music_artists,https://en.wikipedia.org/wiki/List_of_best-selling_music_artists,8,7,List_of_best-selling_music_artists
+d_3,history,https://finance.yahoo.com/quote/TSLA/history,101,7,history
